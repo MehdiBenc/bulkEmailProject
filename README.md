@@ -4,8 +4,8 @@ Easily Manage and Send group Emails with a single Click, reaching all your Conta
 ---
 
 ## 🚀 Features
-- **Home Page** (`index.php`) – Entry point with navigation to festival content.  
-- **Hotel Booking** (`menu_pages/BookHotel`) – Reserve accommodation for the event.  
+- **Home Page** (`index.php`) – Page d’accueil avec navigation vers les fonctionnalités principales.  
+- **User Registration** (`signup.php)`) – Création d’un compte utilisateur sécurisé.  
 - **Shop** (`menu_pages/Shop`) – Browse and purchase items related to the festival.  
 - **Orders Management** (`menu_pages/orders`) – View and manage placed orders.  
 - **Media Section** (`menu_pages/Media`) – Access media content and resources.  
