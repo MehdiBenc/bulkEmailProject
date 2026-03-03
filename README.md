@@ -12,5 +12,5 @@ Easily Manage and Send group Emails with a single Click, reaching all your Conta
 - **Sent Messages History** (`historique.php`) – Consultation des messages envoyés.  
 - **Edit / Delete Messages** (`modifier_message.php`) – Modification et suppression des messages..  
 - **Logout** (`logout.php`) Déconnexion sécurisée de l’utilisateur.  
-- **Database Integration** – MySQL database (`ldstrtz.sql`) for persistence.  
-- **Custom Design** – Responsive styles via `css/style.css` and custom fonts.
+- **Database Integration** – MySQL database (`bulk_email_db.sql`) for persistence.  
+- **Custom Design** – Interface simple et responsive avec CSS.
